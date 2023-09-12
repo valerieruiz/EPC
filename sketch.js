@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-  var color1 = color("#99CC00");
-  var color2 = color("#FF00CC");
+  var color1 = color("#394F5B");
+  var color2 = color("#B9CDB3");
   
   var increment = 1/windowWidth;
   for (i = 0; i <= windowWidth; i++){
